@@ -111,6 +111,18 @@
       "icon": "groups"
     },
     {
+  "id": "sindarin_04",
+  "language": "Sindarin",
+  "title": "Nature of Middle-earth",
+  "level": "Začátečník",
+  "description": "Poznej základní sindarské slovo pro strom.",
+  "prompt": "Co znamená slovo „galadh“?",
+  "options": ["Hvězda", "Strom", "Hora"],
+  "answer": 1,
+  "explanation": "Galadh znamená strom. Výraz je doložen v Tolkienových textech.",
+  "icon": "forest"
+},
+    {
       "id": "quenya_02",
       "language": "Quenya",
       "title": "Aiya!",
