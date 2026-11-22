@@ -22,15 +22,15 @@
       "language": "Sindarin",
       "title": "Mae govannen",
       "level": "Začátečník",
-      "description": "Pozdrav známý z Tolkienova světa.",
+      "description": "První setkání se sindarštinou a pozdrav ze Středozemě.",
       "prompt": "Jaký význam má Mae govannen?",
       "options": [
         "Sbohem",
-        "Dobře jsme se setkali / vítej",
+        "Dobře jsme se setkali",
         "Přítel"
       ],
       "answer": 1,
-      "explanation": "Doložený sindarský pozdrav, překládaný jako well met.",
+      "explanation": "Mae govannen se překládá jako „Well met“ – dobře jsme se setkali. Jde o známý sindarský pozdrav.",
       "icon": "magic"
     },
     {
@@ -118,7 +118,7 @@
       "language": "Sindarin",
       "title": "The Doors of Durin",
       "level": "Začátečník",
-      "description": "Poznej slavnou větu z bran Morie.",
+      "description": "Rozlušti slavný nápis na branách Morie.",
       "prompt": "Co znamená „Pedo mellon a minno“?",
       "options": [
         "Sbohem, můj příteli",
@@ -126,7 +126,7 @@
         "Hvězda svítí"
       ],
       "answer": 1,
-      "explanation": "Pedo mellon a minno = Speak, friend, and enter. Věta je spojena s branami Morie.",
+      "explanation": "Pedo mellon a minno znamená „Speak, friend, and enter“ – mluv, příteli, a vstup. Věta je spojena s branami Morie.",
       "icon": "auto_awesome"
     },
     {
@@ -174,7 +174,7 @@
         "Slunce"
       ],
       "answer": 1,
-      "explanation": "Gil znamená hvězda. Jde o běžnější sindarský výraz; êl je starší a básnická varianta.",
+      "explanation": "Gil znamená hvězda či jasný třpyt. Nepřidáváme zde nejisté tvrzení o slově êl jako o běžné variantě.",
       "icon": "star"
     },
     {
@@ -196,17 +196,17 @@
     {
       "id": "sindarin_07",
       "language": "Sindarin",
-      "title": "Mae govannen",
+      "title": "A Word of Greeting",
       "level": "Začátečník",
-      "description": "Nauč se slavný sindarský pozdrav ze světa Pána prstenů.",
-      "prompt": "Co znamená „Mae govannen“?",
+      "description": "Podívej se blíže na význam sindarského pozdravu.",
+      "prompt": "Co znamená slovo „mae“ ve spojení Mae govannen?",
       "options": [
-        "Dobře jsme se setkali",
-        "Sbohem, příteli",
-        "Hvězda svítí"
+        "Dobře",
+        "Přítel",
+        "Setkání"
       ],
       "answer": 0,
-      "explanation": "Mae govannen znamená „Well met“ – dobře jsme se setkali. Tento pozdrav použil Glorfindel při setkání s Aragornem.",
+      "explanation": "Mae znamená dobře. Ve spojení Mae govannen tvoří součást pozdravu překládaného jako „Well met“.",
       "icon": "handshake"
     },
     {
@@ -230,15 +230,15 @@
       "language": "Sindarin",
       "title": "Places of Middle-earth",
       "level": "Začátečník",
-      "description": "Poznej názvy míst a staveb ve Středozemi.",
+      "description": "Poznej názvy bran a staveb ve Středozemi.",
       "prompt": "Co znamená sindarské slovo „annon“?",
       "options": [
-        "Brána",
+        "Velká brána nebo dveře",
         "Hora",
         "Les"
       ],
       "answer": 0,
-      "explanation": "Annon znamená velká brána nebo dveře. Amon znamená kopec či horu a barad znamená věž.",
+      "explanation": "Annon znamená velkou bránu nebo dveře. Je doloženo také ve spojení Ennyn Durin – Dveře Durinovy. Amon znamená kopec či horu a barad věž.",
       "icon": "castle"
     },
     {
@@ -254,7 +254,7 @@
         "Slunce"
       ],
       "answer": 2,
-      "explanation": "Anor znamená slunce. Ithil znamená měsíc a aear znamená moře.",
+      "explanation": "Anor znamená Slunce. Ithil znamená Měsíc. U dalších slov je vhodné ověřovat přesný tvar a období Tolkienovy jazykové tvorby.",
       "icon": "sun"
     },
     {
