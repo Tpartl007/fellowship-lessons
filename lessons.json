@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "lessons": [
+    {
+      "id": "en_b1_01",
+      "language": "Angličtina",
+      "title": "A reliable companion",
+      "level": "B1-B2",
+      "description": "Slovní zásoba pro popis lidí a spolupráce.",
+      "prompt": "What does reliable mean?",
+      "options": ["Spolehlivý", "Nebezpečný", "Unavený"],
+      "answer": 0,
+      "explanation": "Reliable means someone you can trust.",
+      "icon": "translate"
+    },
+    {
+      "id": "sindarin_01",
+      "language": "Sindarin",
+      "title": "Mae govannen",
+      "level": "Začátečník",
+      "description": "Pozdrav známý z Tolkienova světa.",
+      "prompt": "Jaký význam má Mae govannen?",
+      "options": ["Sbohem", "Dobře jsme se setkali / vítej", "Přítel"],
+      "answer": 1,
+      "explanation": "Doložený sindarský pozdrav, překládaný jako well met.",
+      "icon": "magic"
+    },
+    {
+      "id": "quenya_01",
+      "language": "Quenya",
+      "title": "Namárië",
+      "level": "Začátečník",
+      "description": "Poznej známý quenyjský rozlučkový výraz.",
+      "prompt": "Co znamená Namárië?",
+      "options": ["Děkuji", "Přítel", "Sbohem"],
+      "answer": 2,
+      "explanation": "Namárië znamená farewell, tedy sbohem.",
+      "icon": "star"
+    },
+    {
+      "id": "en_b1_02",
+      "language": "Angličtina",
+      "title": "The Journey Begins",
+      "level": "B1",
+      "description": "Cestování, orientace a hledání cesty.",
+      "prompt": "What does destination mean?",
+      "options": ["Zavazadlo", "Cílové místo", "Jízdenka"],
+      "answer": 1,
+      "explanation": "Destination means cílové místo.",
+      "icon": "explore"
+    },
+    {
+      "id": "en_b1_03",
+      "language": "Angličtina",
+      "title": "Facing Challenges",
+      "level": "B1-B2",
+      "description": "Překonávání překážek a řešení problémů.",
+      "prompt": "What does overcome a challenge mean?",
+      "options": ["Vzdát se úkolu", "Překonat výzvu", "Odložit cestu"],
+      "answer": 1,
+      "explanation": "To overcome a challenge means překonat výzvu.",
+      "icon": "flag"
+    },
+    {
+      "id": "en_b2_01",
+      "language": "Angličtina",
+      "title": "The Fellowship",
+      "level": "B2",
+      "description": "Spolupráce, důvěra a odpovědnost.",
+      "prompt": "What does rely on someone mean?",
+      "options": ["Spoléhat se na někoho", "Vyhýbat se někomu", "Soutěžit s někým"],
+      "answer": 0,
+      "explanation": "To rely on someone means spoléhat se na někoho.",
+      "icon": "groups"
+    }
+  ]
+}
