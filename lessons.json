@@ -36,17 +36,17 @@
     {
       "id": "quenya_01",
       "language": "Quenya",
-      "title": "Namárië",
+      "title": "Namárië – Farewell",
       "level": "Začátečník",
-      "description": "Poznej známý quenyjský rozlučkový výraz.",
-      "prompt": "Co znamená Namárië?",
+      "description": "Poznej tradiční quenyjské rozloučení známé z Galadrieliny písně.",
+      "prompt": "Co znamená quenyjské „Namárië“?",
       "options": [
         "Děkuji",
         "Přítel",
-        "Sbohem"
+        "Sbohem – doslova přání, aby se druhému dařilo dobře"
       ],
       "answer": 2,
-      "explanation": "Namárië znamená farewell, tedy sbohem.",
+      "explanation": "Namárië znamená „sbohem“. Tolkien jej také vysvětlil jako „buď zdráv / ať se ti daří dobře“. Je to doložený výraz z Galadrieliny písně.",
       "icon": "star"
     },
     {
@@ -262,31 +262,31 @@
       "language": "Quenya",
       "title": "Aiya!",
       "level": "Začátečník",
-      "description": "Poznej tradiční quenyjský pozdrav.",
-      "prompt": "Jaký význam má „Aiya“?",
+      "description": "Poznej slavné quenyjské zvolání užívané při oslovení.",
+      "prompt": "Jaký význam má quenyjské „Aiya“?",
       "options": [
-        "Zdravím! / Hle!",
+        "Hail! / Hle! / Aj!",
         "Sbohem",
         "Děkuji"
       ],
       "answer": 0,
-      "explanation": "Aiya je doložené quenyjské zvolání používané jako pozdrav nebo oslovení.",
+      "explanation": "Aiya znamená „hail“ nebo „behold“ – zhruba „buď zdráv / hle!“. Tolkien ho někdy používal jako vznešené oslovení, jindy jako zvolání, které přitahuje pozornost; není to prosté každodenní „ahoj“.",
       "icon": "star"
     },
     {
       "id": "quenya_03",
       "language": "Quenya",
-      "title": "Elen síla lúmenn' omentielvo",
+      "title": "Elen síla lúmenn’ omentielvo",
       "level": "Začátečník",
-      "description": "Nauč se slavnou větu o hvězdě a setkání.",
-      "prompt": "Co znamená „Elen síla lúmenn' omentielvo“?",
+      "description": "Rozpoznej slavnou větu, kterou Frodo zdraví elfa Gildora.",
+      "prompt": "Jak se překládá „Elen síla lúmenn’ omentielvo“?",
       "options": [
         "Slunce zapadá za hory",
         "Hvězda září v hodině našeho setkání",
         "Přítel vstupuje do města"
       ],
       "answer": 1,
-      "explanation": "Jde o quenyjskou větu známou z Tolkienova Pána prstenů.",
+      "explanation": "Překlad zní „Hvězda září na hodině našeho setkání“ (přirozeněji: „Hvězda září v hodině našeho setkání“). Ve vydání Pána prstenů z roku 1954 stálo omentielmo; ve druhém vydání Tolkien změnil tvar na omentielvo.",
       "icon": "auto_awesome"
     },
     {
@@ -294,7 +294,7 @@
       "language": "Quenya",
       "title": "The Sword of the Eldar",
       "level": "Začátečník",
-      "description": "Poznej slovo pro meč ve vysoké elfštině.",
+      "description": "Poznej doložené quenyjské slovo pro meč.",
       "prompt": "Co znamená quenyjské slovo „macil“?",
       "options": [
         "Štít",
@@ -302,7 +302,7 @@
         "Luk"
       ],
       "answer": 1,
-      "explanation": "Macil znamená meč. Je to doložené quenyjské podstatné jméno.",
+      "explanation": "Macil znamená meč. Jde o doložené quenyjské podstatné jméno.",
       "icon": "swords"
     },
     {
@@ -310,7 +310,7 @@
       "language": "Quenya",
       "title": "The Great Forests",
       "level": "Začátečník",
-      "description": "Poznej slovo pro les v elfské slovní zásobě.",
+      "description": "Poznej quenyjské slovo pro les.",
       "prompt": "Co znamená quenyjské slovo „taurë“?",
       "options": [
         "Les",
@@ -318,7 +318,7 @@
         "Hora"
       ],
       "answer": 0,
-      "explanation": "Taurë znamená les. Slovo se objevuje v Tolkienově quenyjské slovní zásobě.",
+      "explanation": "Taurë znamená les. Koncové ë se vyslovuje jako samostatná hláska, nikoli jako němé anglické e.",
       "icon": "trees"
     },
     {
@@ -326,7 +326,7 @@
       "language": "Quenya",
       "title": "An Elven Home",
       "level": "Začátečník",
-      "description": "Nauč se pojmenovat domov v Quenyi.",
+      "description": "Nauč se quenyjské slovo pro dům či obydlí.",
       "prompt": "Co znamená quenyjské slovo „cöa“?",
       "options": [
         "Věž",
@@ -334,7 +334,7 @@
         "Město"
       ],
       "answer": 1,
-      "explanation": "Cöa znamená dům. Jde o doložené quenyjské slovo.",
+      "explanation": "Cöa znamená dům. Dvojtečka nad ö je pomůcka pro čtenáře: upozorňuje, že se samohláska vyslovuje samostatně, ne jako němé písmeno.",
       "icon": "house"
     },
     {
@@ -342,7 +342,7 @@
       "language": "Quenya",
       "title": "The Elven City",
       "level": "Začátečník",
-      "description": "Poznej výraz pro město ve světě Eldar.",
+      "description": "Poznej quenyjské slovo pro město.",
       "prompt": "Co znamená quenyjské slovo „osto“?",
       "options": [
         "Město",
@@ -350,7 +350,7 @@
         "Vesnice"
       ],
       "answer": 0,
-      "explanation": "Osto znamená město nebo opevněné sídlo.",
+      "explanation": "Osto znamená město. Je doloženo v Tolkienově quenyjské slovní zásobě.",
       "icon": "castle"
     },
     {
@@ -358,15 +358,15 @@
       "language": "Quenya",
       "title": "Wings of Middle-earth",
       "level": "Začátečník",
-      "description": "Poznej slovo pro ptáka.",
+      "description": "Poznej quenyjské slovo pro ptáka.",
       "prompt": "Co znamená quenyjské slovo „aiwë“?",
       "options": [
         "Orel",
-        "Pták",
+        "Pták (drobný pták)",
         "Kůň"
       ],
       "answer": 1,
-      "explanation": "Aiwë znamená pták. Je to doložené quenyjské podstatné jméno.",
+      "explanation": "Aiwë znamená pták, přesněji drobný pták. Neznamená samo o sobě konkrétně orla.",
       "icon": "bird"
     },
     {
@@ -374,7 +374,7 @@
       "language": "Quenya",
       "title": "The Heavens Above",
       "level": "Začátečník",
-      "description": "Poznej slovo pro oblohu a nebeskou klenbu.",
+      "description": "Poznej quenyjské slovo pro oblohu a nebesa.",
       "prompt": "Co znamená quenyjské slovo „menel“?",
       "options": [
         "Moře",
@@ -382,7 +382,7 @@
         "Obloha a nebesa"
       ],
       "answer": 2,
-      "explanation": "Menel znamená oblohu či nebesa. Výraz patří do Tolkienovy quenyjské slovní zásoby.",
+      "explanation": "Menel znamená oblohu či nebesa. V quenyjské slovní zásobě je doloženo jako podstatné jméno.",
       "icon": "cloud"
     },
     {
@@ -398,7 +398,7 @@
         "Člověk"
       ],
       "answer": 0,
-      "explanation": "Nauco znamená trpaslík. Je to doložené quenyjské slovo.",
+      "explanation": "Nauco znamená trpaslík. Jde o doložené quenyjské podstatné jméno.",
       "icon": "mountain"
     }
   ]
