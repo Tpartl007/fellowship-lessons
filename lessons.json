@@ -145,7 +145,19 @@
   "answer": 1,
   "explanation": "Nen znamená voda. Najdeme ho například v názvu jezera Nen Hithoel.",
   "icon": "waves"
-},  
+},
+ {
+  "id": "sindarin_07",
+  "language": "Sindarin",
+  "title": "Mae govannen",
+  "level": "Začátečník",
+  "description": "Nauč se slavný sindarský pozdrav ze světa Pána prstenů.",
+  "prompt": "Co znamená „Mae govannen“?",
+  "options": ["Dobře jsme se setkali", "Sbohem, příteli", "Hvězda svítí"],
+  "answer": 0,
+  "explanation": "Mae govannen znamená „Well met“ – dobře jsme se setkali. Tento pozdrav použil Glorfindel při setkání s Aragornem.",
+  "icon": "handshake"
+},   
 {
       "id": "quenya_02",
       "language": "Quenya",
