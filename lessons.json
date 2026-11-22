@@ -133,7 +133,19 @@
   "answer": 1,
   "explanation": "Gil znamená hvězda. Jde o běžnější sindarský výraz; êl je starší a básnická varianta.",
   "icon": "star"
-},   
+}, 
+{
+  "id": "sindarin_06",
+  "language": "Sindarin",
+  "title": "Waters of Middle-earth",
+  "level": "Začátečník",
+  "description": "Poznej sindarské slovo pro vodu.",
+  "prompt": "Co znamená sindarské slovo „nen“?",
+  "options": ["Oheň", "Voda", "Vítr"],
+  "answer": 1,
+  "explanation": "Nen znamená voda. Najdeme ho například v názvu jezera Nen Hithoel.",
+  "icon": "waves"
+},  
 {
       "id": "quenya_02",
       "language": "Quenya",
