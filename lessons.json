@@ -85,6 +85,55 @@
       "answer": 1,
       "explanation": "Courage = odvaha. It means facing something difficult despite fear.",
       "icon": "flag"
+    },
+    {
+      "id": "sindarin_02",
+      "language": "Sindarin",
+      "title": "The Doors of Durin",
+      "level": "Začátečník",
+      "description": "Poznej slavnou větu z bran Morie.",
+      "prompt": "Co znamená „Pedo mellon a minno“?",
+      "options": ["Sbohem, můj příteli", "Mluv, příteli, a vstup", "Hvězda svítí"],
+      "answer": 1,
+      "explanation": "Pedo mellon a minno = Speak, friend, and enter. Věta je spojena s branami Morie.",
+      "icon": "auto_awesome"
+    },
+    {
+      "id": "sindarin_03",
+      "language": "Sindarin",
+      "title": "Words of Middle-earth",
+      "level": "Začátečník",
+      "description": "Procvič si rozpoznávání sindarských slov.",
+      "prompt": "Co znamená slovo „mellon“?",
+      "options": ["Hvězda", "Přítel", "Měsíc"],
+      "answer": 1,
+      "explanation": "Mellon znamená přítel. Slovo je doloženo například na dveřích Morie.",
+      "icon": "groups"
+    },
+    {
+      "id": "quenya_02",
+      "language": "Quenya",
+      "title": "Aiya!",
+      "level": "Začátečník",
+      "description": "Poznej tradiční quenyjský pozdrav.",
+      "prompt": "Jaký význam má „Aiya“?",
+      "options": ["Zdravím! / Hle!", "Sbohem", "Děkuji"],
+      "answer": 0,
+      "explanation": "Aiya je doložené quenyjské zvolání používané jako pozdrav nebo oslovení.",
+      "icon": "star"
+    },
+    {
+      "id": "quenya_03",
+      "language": "Quenya",
+      "title": "Elen síla lúmenn' omentielvo",
+      "level": "Začátečník",
+      "description": "Nauč se slavnou větu o hvězdě a setkání.",
+      "prompt": "Co znamená „Elen síla lúmenn' omentielvo“?",
+      "options": ["Slunce zapadá za hory", "Hvězda září v hodině našeho setkání", "Přítel vstupuje do města"],
+      "answer": 1,
+      "explanation": "Jde o quenyjskou větu známou z Tolkienova Pána prstenů.",
+      "icon": "auto_awesome"
     }
+
   ] 
 }
