@@ -72,6 +72,19 @@
       "answer": 0,
       "explanation": "To rely on someone means spoléhat se na někoho.",
       "icon": "groups"
+    },
+
+    {
+      "id": "en_b1_04",
+      "language": "Angličtina",
+      "title": "The Courage to Continue",
+      "level": "B1",
+      "description": "Procvič si slovní zásobu odvahy a vytrvalosti.",
+      "prompt": "What does courage mean?",
+      "options": ["Strach", "Odvaha", "Únava"],
+      "answer": 1,
+      "explanation": "Courage = odvaha. It means facing something difficult despite fear.",
+      "icon": "flag"
     }
-  ]
+  ] 
 }
