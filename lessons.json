@@ -218,7 +218,91 @@
       "answer": 1,
       "explanation": "Jde o quenyjskou větu známou z Tolkienova Pána prstenů.",
       "icon": "auto_awesome"
-    }
+    },
+    {
+  "id": "quenya_04",
+  "language": "Quenya",
+  "title": "The Sword of the Eldar",
+  "level": "Začátečník",
+  "description": "Poznej slovo pro meč ve vysoké elfštině.",
+  "prompt": "Co znamená quenyjské slovo „macil“?",
+  "options": ["Štít", "Meč", "Luk"],
+  "answer": 1,
+  "explanation": "Macil znamená meč. Je to doložené quenyjské podstatné jméno.",
+  "icon": "swords"
+},
+{
+  "id": "quenya_05",
+  "language": "Quenya",
+  "title": "The Great Forests",
+  "level": "Začátečník",
+  "description": "Poznej slovo pro les v elfské slovní zásobě.",
+  "prompt": "Co znamená quenyjské slovo „taurë“?",
+  "options": ["Les", "Řeka", "Hora"],
+  "answer": 0,
+  "explanation": "Taurë znamená les. Slovo se objevuje v Tolkienově quenyjské slovní zásobě.",
+  "icon": "trees"
+},
+{
+  "id": "quenya_06",
+  "language": "Quenya",
+  "title": "An Elven Home",
+  "level": "Začátečník",
+  "description": "Nauč se pojmenovat domov v Quenyi.",
+  "prompt": "Co znamená quenyjské slovo „cöa“?",
+  "options": ["Věž", "Dům", "Město"],
+  "answer": 1,
+  "explanation": "Cöa znamená dům. Jde o doložené quenyjské slovo.",
+  "icon": "house"
+},
+{
+  "id": "quenya_07",
+  "language": "Quenya",
+  "title": "The Elven City",
+  "level": "Začátečník",
+  "description": "Poznej výraz pro město ve světě Eldar.",
+  "prompt": "Co znamená quenyjské slovo „osto“?",
+  "options": ["Město", "Hradba", "Vesnice"],
+  "answer": 0,
+  "explanation": "Osto znamená město nebo opevněné sídlo.",
+  "icon": "castle"
+},
+{
+  "id": "quenya_08",
+  "language": "Quenya",
+  "title": "Wings of Middle-earth",
+  "level": "Začátečník",
+  "description": "Poznej slovo pro ptáka.",
+  "prompt": "Co znamená quenyjské slovo „aiwë“?",
+  "options": ["Orel", "Pták", "Kůň"],
+  "answer": 1,
+  "explanation": "Aiwë znamená pták. Je to doložené quenyjské podstatné jméno.",
+  "icon": "bird"
+},
+{
+  "id": "quenya_09",
+  "language": "Quenya",
+  "title": "The Heavens Above",
+  "level": "Začátečník",
+  "description": "Poznej slovo pro oblohu a nebeskou klenbu.",
+  "prompt": "Co znamená quenyjské slovo „menel“?",
+  "options": ["Moře", "Země", "Obloha a nebesa"],
+  "answer": 2,
+  "explanation": "Menel znamená oblohu či nebesa. Výraz patří do Tolkienovy quenyjské slovní zásoby.",
+  "icon": "cloud"
+},
+{
+  "id": "quenya_10",
+  "language": "Quenya",
+  "title": "The Dwarves",
+  "level": "Začátečník",
+  "description": "Poznej quenyjské označení trpaslíka.",
+  "prompt": "Co znamená quenyjské slovo „nauco“?",
+  "options": ["Trpaslík", "Elf", "Člověk"],
+  "answer": 0,
+  "explanation": "Nauco znamená trpaslík. Je to doložené quenyjské slovo.",
+  "icon": "mountain"
+}
 
   ] 
 }
