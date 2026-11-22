@@ -8,7 +8,11 @@
       "level": "B1-B2",
       "description": "Slovní zásoba pro popis lidí a spolupráce.",
       "prompt": "What does reliable mean?",
-      "options": ["Spolehlivý", "Nebezpečný", "Unavený"],
+      "options": [
+        "Spolehlivý",
+        "Nebezpečný",
+        "Unavený"
+      ],
       "answer": 0,
       "explanation": "Reliable means someone you can trust.",
       "icon": "translate"
@@ -20,7 +24,11 @@
       "level": "Začátečník",
       "description": "Pozdrav známý z Tolkienova světa.",
       "prompt": "Jaký význam má Mae govannen?",
-      "options": ["Sbohem", "Dobře jsme se setkali / vítej", "Přítel"],
+      "options": [
+        "Sbohem",
+        "Dobře jsme se setkali / vítej",
+        "Přítel"
+      ],
       "answer": 1,
       "explanation": "Doložený sindarský pozdrav, překládaný jako well met.",
       "icon": "magic"
@@ -32,7 +40,11 @@
       "level": "Začátečník",
       "description": "Poznej známý quenyjský rozlučkový výraz.",
       "prompt": "Co znamená Namárië?",
-      "options": ["Děkuji", "Přítel", "Sbohem"],
+      "options": [
+        "Děkuji",
+        "Přítel",
+        "Sbohem"
+      ],
       "answer": 2,
       "explanation": "Namárië znamená farewell, tedy sbohem.",
       "icon": "star"
@@ -44,7 +56,11 @@
       "level": "B1",
       "description": "Cestování, orientace a hledání cesty.",
       "prompt": "What does destination mean?",
-      "options": ["Zavazadlo", "Cílové místo", "Jízdenka"],
+      "options": [
+        "Zavazadlo",
+        "Cílové místo",
+        "Jízdenka"
+      ],
       "answer": 1,
       "explanation": "Destination means cílové místo.",
       "icon": "explore"
@@ -56,7 +72,11 @@
       "level": "B1-B2",
       "description": "Překonávání překážek a řešení problémů.",
       "prompt": "What does overcome a challenge mean?",
-      "options": ["Vzdát se úkolu", "Překonat výzvu", "Odložit cestu"],
+      "options": [
+        "Vzdát se úkolu",
+        "Překonat výzvu",
+        "Odložit cestu"
+      ],
       "answer": 1,
       "explanation": "To overcome a challenge means překonat výzvu.",
       "icon": "flag"
@@ -68,12 +88,15 @@
       "level": "B2",
       "description": "Spolupráce, důvěra a odpovědnost.",
       "prompt": "What does rely on someone mean?",
-      "options": ["Spoléhat se na někoho", "Vyhýbat se někomu", "Soutěžit s někým"],
+      "options": [
+        "Spoléhat se na někoho",
+        "Vyhýbat se někomu",
+        "Soutěžit s někým"
+      ],
       "answer": 0,
       "explanation": "To rely on someone means spoléhat se na někoho.",
       "icon": "groups"
     },
-
     {
       "id": "en_b1_04",
       "language": "Angličtina",
@@ -81,7 +104,11 @@
       "level": "B1",
       "description": "Procvič si slovní zásobu odvahy a vytrvalosti.",
       "prompt": "What does courage mean?",
-      "options": ["Strach", "Odvaha", "Únava"],
+      "options": [
+        "Strach",
+        "Odvaha",
+        "Únava"
+      ],
       "answer": 1,
       "explanation": "Courage = odvaha. It means facing something difficult despite fear.",
       "icon": "flag"
@@ -93,7 +120,11 @@
       "level": "Začátečník",
       "description": "Poznej slavnou větu z bran Morie.",
       "prompt": "Co znamená „Pedo mellon a minno“?",
-      "options": ["Sbohem, můj příteli", "Mluv, příteli, a vstup", "Hvězda svítí"],
+      "options": [
+        "Sbohem, můj příteli",
+        "Mluv, příteli, a vstup",
+        "Hvězda svítí"
+      ],
       "answer": 1,
       "explanation": "Pedo mellon a minno = Speak, friend, and enter. Věta je spojena s branami Morie.",
       "icon": "auto_awesome"
@@ -105,104 +136,139 @@
       "level": "Začátečník",
       "description": "Procvič si rozpoznávání sindarských slov.",
       "prompt": "Co znamená slovo „mellon“?",
-      "options": ["Hvězda", "Přítel", "Měsíc"],
+      "options": [
+        "Hvězda",
+        "Přítel",
+        "Měsíc"
+      ],
       "answer": 1,
       "explanation": "Mellon znamená přítel. Slovo je doloženo například na dveřích Morie.",
       "icon": "groups"
     },
     {
-  "id": "sindarin_04",
-  "language": "Sindarin",
-  "title": "Nature of Middle-earth",
-  "level": "Začátečník",
-  "description": "Poznej základní sindarské slovo pro strom.",
-  "prompt": "Co znamená slovo „galadh“?",
-  "options": ["Hvězda", "Strom", "Hora"],
-  "answer": 1,
-  "explanation": "Galadh znamená strom. Výraz je doložen v Tolkienových textech.",
-  "icon": "forest"
-},
- {
-  "id": "sindarin_05",
-  "language": "Sindarin",
-  "title": "The Stars of Middle-earth",
-  "level": "Začátečník",
-  "description": "Poznej sindarské slovo pro hvězdu.",
-  "prompt": "Co znamená sindarské slovo „gil“?",
-  "options": ["Měsíc", "Hvězda", "Slunce"],
-  "answer": 1,
-  "explanation": "Gil znamená hvězda. Jde o běžnější sindarský výraz; êl je starší a básnická varianta.",
-  "icon": "star"
-}, 
-{
-  "id": "sindarin_06",
-  "language": "Sindarin",
-  "title": "Waters of Middle-earth",
-  "level": "Začátečník",
-  "description": "Poznej sindarské slovo pro vodu.",
-  "prompt": "Co znamená sindarské slovo „nen“?",
-  "options": ["Oheň", "Voda", "Vítr"],
-  "answer": 1,
-  "explanation": "Nen znamená voda. Najdeme ho například v názvu jezera Nen Hithoel.",
-  "icon": "waves"
-},
- {
-  "id": "sindarin_07",
-  "language": "Sindarin",
-  "title": "Mae govannen",
-  "level": "Začátečník",
-  "description": "Nauč se slavný sindarský pozdrav ze světa Pána prstenů.",
-  "prompt": "Co znamená „Mae govannen“?",
-  "options": ["Dobře jsme se setkali", "Sbohem, příteli", "Hvězda svítí"],
-  "answer": 0,
-  "explanation": "Mae govannen znamená „Well met“ – dobře jsme se setkali. Tento pozdrav použil Glorfindel při setkání s Aragornem.",
-  "icon": "handshake"
-},
-  {
-  "id": "sindarin_08",
-  "language": "Sindarin",
-  "title": "People of Middle-earth",
-  "level": "Začátečník",
-  "description": "Poznej názvy obyvatel Středozemě v sindarštině.",
-  "prompt": "Co znamená sindarské slovo „aran“?",
-  "options": ["Elf", "Král", "Trpaslík"],
-  "answer": 1,
-  "explanation": "Aran znamená král. Další doložená slova: edhel = elf a adan = člověk (příslušník lidského rodu).",
-  "icon": "crown"
-},
-{
-  "id": "sindarin_09",
-  "language": "Sindarin",
-  "title": "Places of Middle-earth",
-  "level": "Začátečník",
-  "description": "Poznej názvy míst a staveb ve Středozemi.",
-  "prompt": "Co znamená sindarské slovo „annon“?",
-  "options": ["Brána", "Hora", "Les"],
-  "answer": 0,
-  "explanation": "Annon znamená velká brána nebo dveře. Amon znamená kopec či horu a barad znamená věž.",
-  "icon": "castle"
-},
-{
-  "id": "sindarin_10",
-  "language": "Sindarin",
-  "title": "The Natural World",
-  "level": "Začátečník",
-  "description": "Nauč se pojmenovat přírodní prvky v sindarštině.",
-  "prompt": "Co znamená sindarské slovo „anor“?",
-  "options": ["Měsíc", "Hvězda", "Slunce"],
-  "answer": 2,
-  "explanation": "Anor znamená slunce. Ithil znamená měsíc a aear znamená moře.",
-  "icon": "sun"
-}
-  
-{
+      "id": "sindarin_04",
+      "language": "Sindarin",
+      "title": "Nature of Middle-earth",
+      "level": "Začátečník",
+      "description": "Poznej základní sindarské slovo pro strom.",
+      "prompt": "Co znamená slovo „galadh“?",
+      "options": [
+        "Hvězda",
+        "Strom",
+        "Hora"
+      ],
+      "answer": 1,
+      "explanation": "Galadh znamená strom. Výraz je doložen v Tolkienových textech.",
+      "icon": "forest"
+    },
+    {
+      "id": "sindarin_05",
+      "language": "Sindarin",
+      "title": "The Stars of Middle-earth",
+      "level": "Začátečník",
+      "description": "Poznej sindarské slovo pro hvězdu.",
+      "prompt": "Co znamená sindarské slovo „gil“?",
+      "options": [
+        "Měsíc",
+        "Hvězda",
+        "Slunce"
+      ],
+      "answer": 1,
+      "explanation": "Gil znamená hvězda. Jde o běžnější sindarský výraz; êl je starší a básnická varianta.",
+      "icon": "star"
+    },
+    {
+      "id": "sindarin_06",
+      "language": "Sindarin",
+      "title": "Waters of Middle-earth",
+      "level": "Začátečník",
+      "description": "Poznej sindarské slovo pro vodu.",
+      "prompt": "Co znamená sindarské slovo „nen“?",
+      "options": [
+        "Oheň",
+        "Voda",
+        "Vítr"
+      ],
+      "answer": 1,
+      "explanation": "Nen znamená voda. Najdeme ho například v názvu jezera Nen Hithoel.",
+      "icon": "waves"
+    },
+    {
+      "id": "sindarin_07",
+      "language": "Sindarin",
+      "title": "Mae govannen",
+      "level": "Začátečník",
+      "description": "Nauč se slavný sindarský pozdrav ze světa Pána prstenů.",
+      "prompt": "Co znamená „Mae govannen“?",
+      "options": [
+        "Dobře jsme se setkali",
+        "Sbohem, příteli",
+        "Hvězda svítí"
+      ],
+      "answer": 0,
+      "explanation": "Mae govannen znamená „Well met“ – dobře jsme se setkali. Tento pozdrav použil Glorfindel při setkání s Aragornem.",
+      "icon": "handshake"
+    },
+    {
+      "id": "sindarin_08",
+      "language": "Sindarin",
+      "title": "People of Middle-earth",
+      "level": "Začátečník",
+      "description": "Poznej názvy obyvatel Středozemě v sindarštině.",
+      "prompt": "Co znamená sindarské slovo „aran“?",
+      "options": [
+        "Elf",
+        "Král",
+        "Trpaslík"
+      ],
+      "answer": 1,
+      "explanation": "Aran znamená král. Další doložená slova: edhel = elf a adan = člověk (příslušník lidského rodu).",
+      "icon": "crown"
+    },
+    {
+      "id": "sindarin_09",
+      "language": "Sindarin",
+      "title": "Places of Middle-earth",
+      "level": "Začátečník",
+      "description": "Poznej názvy míst a staveb ve Středozemi.",
+      "prompt": "Co znamená sindarské slovo „annon“?",
+      "options": [
+        "Brána",
+        "Hora",
+        "Les"
+      ],
+      "answer": 0,
+      "explanation": "Annon znamená velká brána nebo dveře. Amon znamená kopec či horu a barad znamená věž.",
+      "icon": "castle"
+    },
+    {
+      "id": "sindarin_10",
+      "language": "Sindarin",
+      "title": "The Natural World",
+      "level": "Začátečník",
+      "description": "Nauč se pojmenovat přírodní prvky v sindarštině.",
+      "prompt": "Co znamená sindarské slovo „anor“?",
+      "options": [
+        "Měsíc",
+        "Hvězda",
+        "Slunce"
+      ],
+      "answer": 2,
+      "explanation": "Anor znamená slunce. Ithil znamená měsíc a aear znamená moře.",
+      "icon": "sun"
+    },
+    {
       "id": "quenya_02",
       "language": "Quenya",
       "title": "Aiya!",
       "level": "Začátečník",
       "description": "Poznej tradiční quenyjský pozdrav.",
       "prompt": "Jaký význam má „Aiya“?",
-      "options": ["Zdravím! / Hle!", "Sbohem", "Děkuji"],
+      "options": [
+        "Zdravím! / Hle!",
+        "Sbohem",
+        "Děkuji"
+      ],
       "answer": 0,
       "explanation": "Aiya je doložené quenyjské zvolání používané jako pozdrav nebo oslovení.",
       "icon": "star"
@@ -214,95 +280,126 @@
       "level": "Začátečník",
       "description": "Nauč se slavnou větu o hvězdě a setkání.",
       "prompt": "Co znamená „Elen síla lúmenn' omentielvo“?",
-      "options": ["Slunce zapadá za hory", "Hvězda září v hodině našeho setkání", "Přítel vstupuje do města"],
+      "options": [
+        "Slunce zapadá za hory",
+        "Hvězda září v hodině našeho setkání",
+        "Přítel vstupuje do města"
+      ],
       "answer": 1,
       "explanation": "Jde o quenyjskou větu známou z Tolkienova Pána prstenů.",
       "icon": "auto_awesome"
     },
     {
-  "id": "quenya_04",
-  "language": "Quenya",
-  "title": "The Sword of the Eldar",
-  "level": "Začátečník",
-  "description": "Poznej slovo pro meč ve vysoké elfštině.",
-  "prompt": "Co znamená quenyjské slovo „macil“?",
-  "options": ["Štít", "Meč", "Luk"],
-  "answer": 1,
-  "explanation": "Macil znamená meč. Je to doložené quenyjské podstatné jméno.",
-  "icon": "swords"
-},
-{
-  "id": "quenya_05",
-  "language": "Quenya",
-  "title": "The Great Forests",
-  "level": "Začátečník",
-  "description": "Poznej slovo pro les v elfské slovní zásobě.",
-  "prompt": "Co znamená quenyjské slovo „taurë“?",
-  "options": ["Les", "Řeka", "Hora"],
-  "answer": 0,
-  "explanation": "Taurë znamená les. Slovo se objevuje v Tolkienově quenyjské slovní zásobě.",
-  "icon": "trees"
-},
-{
-  "id": "quenya_06",
-  "language": "Quenya",
-  "title": "An Elven Home",
-  "level": "Začátečník",
-  "description": "Nauč se pojmenovat domov v Quenyi.",
-  "prompt": "Co znamená quenyjské slovo „cöa“?",
-  "options": ["Věž", "Dům", "Město"],
-  "answer": 1,
-  "explanation": "Cöa znamená dům. Jde o doložené quenyjské slovo.",
-  "icon": "house"
-},
-{
-  "id": "quenya_07",
-  "language": "Quenya",
-  "title": "The Elven City",
-  "level": "Začátečník",
-  "description": "Poznej výraz pro město ve světě Eldar.",
-  "prompt": "Co znamená quenyjské slovo „osto“?",
-  "options": ["Město", "Hradba", "Vesnice"],
-  "answer": 0,
-  "explanation": "Osto znamená město nebo opevněné sídlo.",
-  "icon": "castle"
-},
-{
-  "id": "quenya_08",
-  "language": "Quenya",
-  "title": "Wings of Middle-earth",
-  "level": "Začátečník",
-  "description": "Poznej slovo pro ptáka.",
-  "prompt": "Co znamená quenyjské slovo „aiwë“?",
-  "options": ["Orel", "Pták", "Kůň"],
-  "answer": 1,
-  "explanation": "Aiwë znamená pták. Je to doložené quenyjské podstatné jméno.",
-  "icon": "bird"
-},
-{
-  "id": "quenya_09",
-  "language": "Quenya",
-  "title": "The Heavens Above",
-  "level": "Začátečník",
-  "description": "Poznej slovo pro oblohu a nebeskou klenbu.",
-  "prompt": "Co znamená quenyjské slovo „menel“?",
-  "options": ["Moře", "Země", "Obloha a nebesa"],
-  "answer": 2,
-  "explanation": "Menel znamená oblohu či nebesa. Výraz patří do Tolkienovy quenyjské slovní zásoby.",
-  "icon": "cloud"
-},
-{
-  "id": "quenya_10",
-  "language": "Quenya",
-  "title": "The Dwarves",
-  "level": "Začátečník",
-  "description": "Poznej quenyjské označení trpaslíka.",
-  "prompt": "Co znamená quenyjské slovo „nauco“?",
-  "options": ["Trpaslík", "Elf", "Člověk"],
-  "answer": 0,
-  "explanation": "Nauco znamená trpaslík. Je to doložené quenyjské slovo.",
-  "icon": "mountain"
-}
-
-  ] 
+      "id": "quenya_04",
+      "language": "Quenya",
+      "title": "The Sword of the Eldar",
+      "level": "Začátečník",
+      "description": "Poznej slovo pro meč ve vysoké elfštině.",
+      "prompt": "Co znamená quenyjské slovo „macil“?",
+      "options": [
+        "Štít",
+        "Meč",
+        "Luk"
+      ],
+      "answer": 1,
+      "explanation": "Macil znamená meč. Je to doložené quenyjské podstatné jméno.",
+      "icon": "swords"
+    },
+    {
+      "id": "quenya_05",
+      "language": "Quenya",
+      "title": "The Great Forests",
+      "level": "Začátečník",
+      "description": "Poznej slovo pro les v elfské slovní zásobě.",
+      "prompt": "Co znamená quenyjské slovo „taurë“?",
+      "options": [
+        "Les",
+        "Řeka",
+        "Hora"
+      ],
+      "answer": 0,
+      "explanation": "Taurë znamená les. Slovo se objevuje v Tolkienově quenyjské slovní zásobě.",
+      "icon": "trees"
+    },
+    {
+      "id": "quenya_06",
+      "language": "Quenya",
+      "title": "An Elven Home",
+      "level": "Začátečník",
+      "description": "Nauč se pojmenovat domov v Quenyi.",
+      "prompt": "Co znamená quenyjské slovo „cöa“?",
+      "options": [
+        "Věž",
+        "Dům",
+        "Město"
+      ],
+      "answer": 1,
+      "explanation": "Cöa znamená dům. Jde o doložené quenyjské slovo.",
+      "icon": "house"
+    },
+    {
+      "id": "quenya_07",
+      "language": "Quenya",
+      "title": "The Elven City",
+      "level": "Začátečník",
+      "description": "Poznej výraz pro město ve světě Eldar.",
+      "prompt": "Co znamená quenyjské slovo „osto“?",
+      "options": [
+        "Město",
+        "Hradba",
+        "Vesnice"
+      ],
+      "answer": 0,
+      "explanation": "Osto znamená město nebo opevněné sídlo.",
+      "icon": "castle"
+    },
+    {
+      "id": "quenya_08",
+      "language": "Quenya",
+      "title": "Wings of Middle-earth",
+      "level": "Začátečník",
+      "description": "Poznej slovo pro ptáka.",
+      "prompt": "Co znamená quenyjské slovo „aiwë“?",
+      "options": [
+        "Orel",
+        "Pták",
+        "Kůň"
+      ],
+      "answer": 1,
+      "explanation": "Aiwë znamená pták. Je to doložené quenyjské podstatné jméno.",
+      "icon": "bird"
+    },
+    {
+      "id": "quenya_09",
+      "language": "Quenya",
+      "title": "The Heavens Above",
+      "level": "Začátečník",
+      "description": "Poznej slovo pro oblohu a nebeskou klenbu.",
+      "prompt": "Co znamená quenyjské slovo „menel“?",
+      "options": [
+        "Moře",
+        "Země",
+        "Obloha a nebesa"
+      ],
+      "answer": 2,
+      "explanation": "Menel znamená oblohu či nebesa. Výraz patří do Tolkienovy quenyjské slovní zásoby.",
+      "icon": "cloud"
+    },
+    {
+      "id": "quenya_10",
+      "language": "Quenya",
+      "title": "The Dwarves",
+      "level": "Začátečník",
+      "description": "Poznej quenyjské označení trpaslíka.",
+      "prompt": "Co znamená quenyjské slovo „nauco“?",
+      "options": [
+        "Trpaslík",
+        "Elf",
+        "Člověk"
+      ],
+      "answer": 0,
+      "explanation": "Nauco znamená trpaslík. Je to doložené quenyjské slovo.",
+      "icon": "mountain"
+    }
+  ]
 }
