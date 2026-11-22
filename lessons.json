@@ -122,7 +122,19 @@
   "explanation": "Galadh znamená strom. Výraz je doložen v Tolkienových textech.",
   "icon": "forest"
 },
-    {
+ {
+  "id": "sindarin_05",
+  "language": "Sindarin",
+  "title": "The Stars of Middle-earth",
+  "level": "Začátečník",
+  "description": "Poznej sindarské slovo pro hvězdu.",
+  "prompt": "Co znamená sindarské slovo „gil“?",
+  "options": ["Měsíc", "Hvězda", "Slunce"],
+  "answer": 1,
+  "explanation": "Gil znamená hvězda. Jde o běžnější sindarský výraz; êl je starší a básnická varianta.",
+  "icon": "star"
+},   
+{
       "id": "quenya_02",
       "language": "Quenya",
       "title": "Aiya!",
