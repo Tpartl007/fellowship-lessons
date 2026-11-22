@@ -157,7 +157,44 @@
   "answer": 0,
   "explanation": "Mae govannen znamená „Well met“ – dobře jsme se setkali. Tento pozdrav použil Glorfindel při setkání s Aragornem.",
   "icon": "handshake"
-},   
+},
+  {
+  "id": "sindarin_08",
+  "language": "Sindarin",
+  "title": "People of Middle-earth",
+  "level": "Začátečník",
+  "description": "Poznej názvy obyvatel Středozemě v sindarštině.",
+  "prompt": "Co znamená sindarské slovo „aran“?",
+  "options": ["Elf", "Král", "Trpaslík"],
+  "answer": 1,
+  "explanation": "Aran znamená král. Další doložená slova: edhel = elf a adan = člověk (příslušník lidského rodu).",
+  "icon": "crown"
+},
+{
+  "id": "sindarin_09",
+  "language": "Sindarin",
+  "title": "Places of Middle-earth",
+  "level": "Začátečník",
+  "description": "Poznej názvy míst a staveb ve Středozemi.",
+  "prompt": "Co znamená sindarské slovo „annon“?",
+  "options": ["Brána", "Hora", "Les"],
+  "answer": 0,
+  "explanation": "Annon znamená velká brána nebo dveře. Amon znamená kopec či horu a barad znamená věž.",
+  "icon": "castle"
+},
+{
+  "id": "sindarin_10",
+  "language": "Sindarin",
+  "title": "The Natural World",
+  "level": "Začátečník",
+  "description": "Nauč se pojmenovat přírodní prvky v sindarštině.",
+  "prompt": "Co znamená sindarské slovo „anor“?",
+  "options": ["Měsíc", "Hvězda", "Slunce"],
+  "answer": 2,
+  "explanation": "Anor znamená slunce. Ithil znamená měsíc a aear znamená moře.",
+  "icon": "sun"
+}
+  
 {
       "id": "quenya_02",
       "language": "Quenya",
