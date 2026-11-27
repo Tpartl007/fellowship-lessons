@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "lessons": [
     {
       "id": "en_b1_01",
@@ -400,6 +400,326 @@
       "answer": 0,
       "explanation": "Nauco znamená trpaslík. Jde o doložené quenyjské podstatné jméno.",
       "icon": "mountain"
+    },
+    {
+      "id": "en_b1_05",
+      "language": "Angličtina",
+      "title": "A Difficult Decision",
+      "level": "B1",
+      "description": "Procvič rozhodování a vyjadřování názorů.",
+      "prompt": "Choose the closest meaning of “although”.",
+      "options": [
+        "Přestože",
+        "Protože",
+        "Dokud"
+      ],
+      "answer": 0,
+      "explanation": "Although introduces a contrast: “Although it was late, we continued.”",
+      "icon": "translate"
+    },
+    {
+      "id": "en_b1_06",
+      "language": "Angličtina",
+      "title": "A Safe Journey",
+      "level": "B1",
+      "description": "Slovní zásoba pro cestování a bezpečnost.",
+      "prompt": "What does “shelter” mean?",
+      "options": [
+        "Úkryt",
+        "Mapa",
+        "Zásoba"
+      ],
+      "answer": 0,
+      "explanation": "A shelter is a place that protects you from bad weather or danger.",
+      "icon": "translate"
+    },
+    {
+      "id": "en_b1_07",
+      "language": "Angličtina",
+      "title": "A Promise Kept",
+      "level": "B1",
+      "description": "Procvič minulý čas a význam slovesa keep.",
+      "prompt": "What does “keep a promise” mean?",
+      "options": [
+        "Dodržet slib",
+        "Zapomenout na slib",
+        "Dát nový slib"
+      ],
+      "answer": 0,
+      "explanation": "To keep a promise means to do what you said you would do.",
+      "icon": "translate"
+    },
+    {
+      "id": "en_b1_08",
+      "language": "Angličtina",
+      "title": "The Hidden Path",
+      "level": "B1",
+      "description": "Slovní zásoba pro popis míst a směrů.",
+      "prompt": "What is a “narrow path”?",
+      "options": [
+        "Úzká stezka",
+        "Široká řeka",
+        "Vysoká věž"
+      ],
+      "answer": 0,
+      "explanation": "Narrow means not wide. A narrow path is a small, tight path.",
+      "icon": "translate"
+    },
+    {
+      "id": "en_b1_09",
+      "language": "Angličtina",
+      "title": "A Loyal Friend",
+      "level": "B1",
+      "description": "Rozliš významy slov loyal a reliable.",
+      "prompt": "What does “loyal” mean?",
+      "options": [
+        "Věrný",
+        "Zvědavý",
+        "Hlučný"
+      ],
+      "answer": 0,
+      "explanation": "A loyal person stays faithful and supportive.",
+      "icon": "translate"
+    },
+    {
+      "id": "en_b2_02",
+      "language": "Angličtina",
+      "title": "The Price of Courage",
+      "level": "B2",
+      "description": "Procvič abstraktní slovní zásobu.",
+      "prompt": "What does “to overcome an obstacle” mean?",
+      "options": [
+        "Překonat překážku",
+        "Překážku vytvořit",
+        "Před překážkou utéct"
+      ],
+      "answer": 0,
+      "explanation": "To overcome something means to successfully deal with or defeat it.",
+      "icon": "translate"
+    },
+    {
+      "id": "en_b2_03",
+      "language": "Angličtina",
+      "title": "A Change of Perspective",
+      "level": "B2",
+      "description": "Procvič fráze pro změnu pohledu.",
+      "prompt": "What does “from my perspective” mean?",
+      "options": [
+        "Z mého pohledu",
+        "Podle staré mapy",
+        "Bez mého svolení"
+      ],
+      "answer": 0,
+      "explanation": "“From my perspective” introduces your personal point of view.",
+      "icon": "translate"
+    },
+    {
+      "id": "en_b2_04",
+      "language": "Angličtina",
+      "title": "Beyond the Border",
+      "level": "B2",
+      "description": "Procvič význam předložkových spojení.",
+      "prompt": "What does “beyond” usually mean?",
+      "options": [
+        "Za / dále než",
+        "Uvnitř",
+        "Pod"
+      ],
+      "answer": 0,
+      "explanation": "Beyond refers to a place or point farther than something.",
+      "icon": "translate"
+    },
+    {
+      "id": "en_b2_05",
+      "language": "Angličtina",
+      "title": "The Uncertain Future",
+      "level": "B2",
+      "description": "Procvič slovní zásobu pro nejistotu a možnosti.",
+      "prompt": "What does “unforeseen” mean?",
+      "options": [
+        "Nepředvídaný",
+        "Pečlivě naplánovaný",
+        "Zapomenutý"
+      ],
+      "answer": 0,
+      "explanation": "Unforeseen describes something that was not expected or predicted.",
+      "icon": "translate"
+    },
+    {
+      "id": "en_b2_06",
+      "language": "Angličtina",
+      "title": "A Worthwhile Quest",
+      "level": "B2",
+      "description": "Procvič přídavná jména pro hodnocení úsilí.",
+      "prompt": "What does “worthwhile” mean?",
+      "options": [
+        "Hodnotný / stojící za námahu",
+        "Nebezpečný",
+        "Krátkodobý"
+      ],
+      "answer": 0,
+      "explanation": "Something worthwhile is worth the time, effort, or cost.",
+      "icon": "translate"
+    },
+    {
+      "id": "sindarin_11",
+      "language": "Sindarin",
+      "title": "The King’s Hall",
+      "level": "Začátečník",
+      "description": "Poznej doložené sindarské slovo pro krále.",
+      "prompt": "Co znamená sindarské slovo “aran”?",
+      "options": [
+        "Král",
+        "Přítel",
+        "Les"
+      ],
+      "answer": 0,
+      "explanation": "Aran znamená „král“. Jde o doložené sindarské slovo; nepleť si jej s quenijskými tvary.",
+      "icon": "translate"
+    },
+    {
+      "id": "sindarin_12",
+      "language": "Sindarin",
+      "title": "A Father’s Counsel",
+      "level": "Začátečník",
+      "description": "Poznej sindarské slovo pro otce.",
+      "prompt": "Co znamená “adar”?",
+      "options": [
+        "Otec",
+        "Syn",
+        "Bratr"
+      ],
+      "answer": 0,
+      "explanation": "Adar znamená „otec“ a objevuje se také ve jménech a názvech Středozemě.",
+      "icon": "translate"
+    },
+    {
+      "id": "sindarin_13",
+      "language": "Sindarin",
+      "title": "The Friend at the Gate",
+      "level": "Začátečník",
+      "description": "Vrať se k nápisu na Západní bráně Morie.",
+      "prompt": "Co znamená “mellon”?",
+      "options": [
+        "Přítel",
+        "Brána",
+        "Meč"
+      ],
+      "answer": 0,
+      "explanation": "Mellon znamená „přítel“. Slovo je známé z nápisu na dveřích Morie.",
+      "icon": "translate"
+    },
+    {
+      "id": "sindarin_14",
+      "language": "Sindarin",
+      "title": "The Silver Tree",
+      "level": "Začátečník",
+      "description": "Poznej sindarské slovo pro strom.",
+      "prompt": "Co znamená “galadh”?",
+      "options": [
+        "Strom",
+        "Hvězda",
+        "Hora"
+      ],
+      "answer": 0,
+      "explanation": "Galadh znamená „strom“; objevuje se například ve jménu Galadhrim.",
+      "icon": "translate"
+    },
+    {
+      "id": "sindarin_15",
+      "language": "Sindarin",
+      "title": "The Sea’s Call",
+      "level": "Začátečník",
+      "description": "Poznej sindarské slovo pro moře.",
+      "prompt": "Co znamená “aear”?",
+      "options": [
+        "Moře",
+        "Oheň",
+        "Vítr"
+      ],
+      "answer": 0,
+      "explanation": "Aear je sindarské slovo pro moře. Tolkienovy podoby a pravopis se v různých textech mohou lišit.",
+      "icon": "translate"
+    },
+    {
+      "id": "quenya_11",
+      "language": "Quenya",
+      "title": "The Language of the Eldar",
+      "level": "Začátečník",
+      "description": "Poznej quenijské slovo pro jazyk.",
+      "prompt": "Co znamená “lambë”?",
+      "options": [
+        "Jazyk",
+        "Kniha",
+        "Hvězda"
+      ],
+      "answer": 0,
+      "explanation": "Lambë znamená „jazyk“; může označovat řeč nebo jazyk jako takový.",
+      "icon": "translate"
+    },
+    {
+      "id": "quenya_12",
+      "language": "Quenya",
+      "title": "Words Written in a Book",
+      "level": "Začátečník",
+      "description": "Procvič dvě quenijská slova spojená s psaním.",
+      "prompt": "Co znamená “parma”?",
+      "options": [
+        "Kniha",
+        "Pero",
+        "Dopis"
+      ],
+      "answer": 0,
+      "explanation": "Parma znamená „kniha“. Je to doložené quenijské podstatné jméno.",
+      "icon": "translate"
+    },
+    {
+      "id": "quenya_13",
+      "language": "Quenya",
+      "title": "The Voice of the Eldar",
+      "level": "Začátečník",
+      "description": "Poznej quenijské sloveso „mluvit“.",
+      "prompt": "Co znamená sloveso “quet-”?",
+      "options": [
+        "Říci / mluvit",
+        "Vidět",
+        "Běžet"
+      ],
+      "answer": 0,
+      "explanation": "Quet- znamená „říci, mluvit“. V lekcích se setkáš také s tvarem quentë – řekl/mluvil.",
+      "icon": "translate"
+    },
+    {
+      "id": "quenya_14",
+      "language": "Quenya",
+      "title": "The Star That Shines",
+      "level": "Začátečník",
+      "description": "Procvič slova elen a sil-.",
+      "prompt": "Co znamená “sil-”?",
+      "options": [
+        "Zářit / svítit",
+        "Padat",
+        "Zpívat"
+      ],
+      "answer": 0,
+      "explanation": "Sil- je slovesný základ s významem „zářit, svítit“, známý i z věty Elen síla lúmenn’ omentielvo.",
+      "icon": "translate"
+    },
+    {
+      "id": "quenya_15",
+      "language": "Quenya",
+      "title": "A Tale of Middle-earth",
+      "level": "Začátečník",
+      "description": "Poznej quenijské slovo pro příběh.",
+      "prompt": "Co znamená “quenta”?",
+      "options": [
+        "Příběh / vyprávění",
+        "Město",
+        "Štít"
+      ],
+      "answer": 0,
+      "explanation": "Quenta znamená „příběh, vyprávění“. Příbuzné quetta znamená „slovo“.",
+      "icon": "translate"
     }
   ]
 }
