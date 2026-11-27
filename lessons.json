@@ -720,6 +720,726 @@
       "answer": 0,
       "explanation": "Quenta znamená „příběh, vyprávění“. Příbuzné quetta znamená „slovo“.",
       "icon": "translate"
+    },
+    {
+      "id": "it_01",
+      "language": "Italština",
+      "title": "A New Beginning",
+      "level": "B1–B2",
+      "description": "Procvič si fráze pro představení a nové začátky.",
+      "prompt": "Jak řekneš „Jmenuji se Marco“?",
+      "options": [
+        "Mi chiamo Marco.",
+        "Ho Marco.",
+        "Sono da Marco."
+      ],
+      "answer": 0,
+      "explanation": "Mi chiamo znamená „jmenuji se“. Používá se při představování.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_02",
+      "language": "Italština",
+      "title": "A Day in Florence",
+      "level": "B1–B2",
+      "description": "Nauč se popsat běžný den a denní režim.",
+      "prompt": "Co znamená „ogni mattina“?",
+      "options": [
+        "Každý večer",
+        "Každé ráno",
+        "Jednou týdně"
+      ],
+      "answer": 1,
+      "explanation": "Ogni mattina znamená každé ráno.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_03",
+      "language": "Italština",
+      "title": "At the Café",
+      "level": "B1–B2",
+      "description": "Procvič objednávání a zdvořilé žádosti.",
+      "prompt": "Jak zdvořile požádáš o kávu?",
+      "options": [
+        "Vorrei un caffè, per favore.",
+        "Sono un caffè.",
+        "Faccio il caffè ieri."
+      ],
+      "answer": 0,
+      "explanation": "Vorrei je zdvořilý podmiňovací tvar „chtěl(a) bych“.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_04",
+      "language": "Italština",
+      "title": "Finding the Way",
+      "level": "B1–B2",
+      "description": "Osvoj si fráze pro cestu a orientaci ve městě.",
+      "prompt": "Co znamená „giri a sinistra“?",
+      "options": [
+        "Jděte rovně",
+        "Zahněte doleva",
+        "Přejděte most"
+      ],
+      "answer": 1,
+      "explanation": "Girare a sinistra znamená odbočit doleva.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_05",
+      "language": "Italština",
+      "title": "A Weekend Away",
+      "level": "B1–B2",
+      "description": "Procvič minulý čas passato prossimo.",
+      "prompt": "Doplň: Ieri ___ visitato Roma.",
+      "options": [
+        "ho",
+        "sono",
+        "è"
+      ],
+      "answer": 0,
+      "explanation": "U většiny přechodných sloves se passato prossimo tvoří pomocí avere a příčestí.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_06",
+      "language": "Italština",
+      "title": "Plans for Tomorrow",
+      "level": "B1–B2",
+      "description": "Mluv o plánech a blízké budoucnosti.",
+      "prompt": "Co znamená „Domani partirò“?",
+      "options": [
+        "Včera jsem odjel.",
+        "Zítra odjedu.",
+        "Právě odjíždím."
+      ],
+      "answer": 1,
+      "explanation": "Partirò je futuro semplice od slovesa partire.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_07",
+      "language": "Italština",
+      "title": "A Taste of Italy",
+      "level": "B1–B2",
+      "description": "Procvič slovní zásobu jídla a restaurace.",
+      "prompt": "Co je „il conto“ v restauraci?",
+      "options": [
+        "Jídelní lístek",
+        "Účet",
+        "Rezervace"
+      ],
+      "answer": 1,
+      "explanation": "Il conto je účet; „Il conto, per favore“ znamená Účet, prosím.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_08",
+      "language": "Italština",
+      "title": "A Place to Stay",
+      "level": "B1–B2",
+      "description": "Nauč se domluvit ubytování a rezervaci.",
+      "prompt": "Jak řekneš „Mám rezervaci“?",
+      "options": [
+        "Ho una prenotazione.",
+        "Sono una camera.",
+        "Faccio una valigia."
+      ],
+      "answer": 0,
+      "explanation": "Prenotazione znamená rezervace.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_09",
+      "language": "Italština",
+      "title": "What Do You Think?",
+      "level": "B1–B2",
+      "description": "Vyjadřuj názor a souhlas či nesouhlas.",
+      "prompt": "Co znamená „Secondo me“?",
+      "options": [
+        "Podle mě",
+        "Bezpochyby",
+        "Naopak"
+      ],
+      "answer": 0,
+      "explanation": "Secondo me uvádí osobní názor: podle mě.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_10",
+      "language": "Italština",
+      "title": "A Small Problem",
+      "level": "B1–B2",
+      "description": "Popiš problém a požádej o pomoc.",
+      "prompt": "Co znamená „Ho bisogno di aiuto“?",
+      "options": [
+        "Potřebuji pomoc.",
+        "Nabízím pomoc.",
+        "Nemám čas."
+      ],
+      "answer": 0,
+      "explanation": "Avere bisogno di znamená potřebovat.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_11",
+      "language": "Italština",
+      "title": "Memories from Childhood",
+      "level": "B1–B2",
+      "description": "Procvič imperfetto při popisu minulosti.",
+      "prompt": "Kdy se často používá imperfetto?",
+      "options": [
+        "Pro zvyky a průběh v minulosti",
+        "Jen pro budoucnost",
+        "Jen pro rozkazy"
+      ],
+      "answer": 0,
+      "explanation": "Imperfetto vyjadřuje opakované děje, zvyky a okolnosti v minulosti.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_12",
+      "language": "Italština",
+      "title": "The Train Is Late",
+      "level": "B1–B2",
+      "description": "Nauč se mluvit o dopravě a zpoždění.",
+      "prompt": "Co znamená „Il treno è in ritardo“?",
+      "options": [
+        "Vlak je předčasně.",
+        "Vlak má zpoždění.",
+        "Vlak je zrušený."
+      ],
+      "answer": 1,
+      "explanation": "Essere in ritardo znamená mít zpoždění.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_13",
+      "language": "Italština",
+      "title": "Work and Responsibility",
+      "level": "B1–B2",
+      "description": "Procvič pracovní komunikaci a povinnosti.",
+      "prompt": "Co znamená „Devo consegnare il rapporto“?",
+      "options": [
+        "Musím odevzdat zprávu.",
+        "Chci napsat dopis.",
+        "Mohu odejít domů."
+      ],
+      "answer": 0,
+      "explanation": "Dovere + infinitiv vyjadřuje povinnost.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_14",
+      "language": "Italština",
+      "title": "If I Had More Time",
+      "level": "B1–B2",
+      "description": "Vyjadřuj hypotetické situace.",
+      "prompt": "Doplň: Se avessi tempo, ___ di più.",
+      "options": [
+        "viaggerei",
+        "viaggio",
+        "viaggiavo"
+      ],
+      "answer": 0,
+      "explanation": "Se + congiuntivo imperfetto často následuje podmiňovací způsob: viaggerei.",
+      "icon": "translate"
+    },
+    {
+      "id": "it_15",
+      "language": "Italština",
+      "title": "A Different Point of View",
+      "level": "B1–B2",
+      "description": "Procvič argumentaci a spojování myšlenek.",
+      "prompt": "Co znamená „Tuttavia“?",
+      "options": [
+        "Protože",
+        "Nicméně",
+        "Například"
+      ],
+      "answer": 1,
+      "explanation": "Tuttavia je spojovací výraz ve významu nicméně / avšak.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_01",
+      "language": "Španělština",
+      "title": "A New Beginning",
+      "level": "B1–B2",
+      "description": "Procvič představení a základní osobní informace.",
+      "prompt": "Jak řekneš „Jmenuji se Ana“?",
+      "options": [
+        "Me llamo Ana.",
+        "Tengo Ana.",
+        "Estoy Ana."
+      ],
+      "answer": 0,
+      "explanation": "Me llamo znamená jmenuji se.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_02",
+      "language": "Španělština",
+      "title": "A Day in Madrid",
+      "level": "B1–B2",
+      "description": "Popisuj denní režim a běžné činnosti.",
+      "prompt": "Co znamená „todos los días“?",
+      "options": [
+        "Každý den",
+        "Příští týden",
+        "Nikdy"
+      ],
+      "answer": 0,
+      "explanation": "Todos los días znamená každý den.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_03",
+      "language": "Španělština",
+      "title": "At the Café",
+      "level": "B1–B2",
+      "description": "Nauč se objednávat zdvořile v kavárně.",
+      "prompt": "Jak požádáš o vodu?",
+      "options": [
+        "Quisiera un agua, por favor.",
+        "Soy agua, gracias.",
+        "Tengo agua ayer."
+      ],
+      "answer": 0,
+      "explanation": "Quisiera je zdvořilý tvar „chtěl(a) bych“.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_04",
+      "language": "Španělština",
+      "title": "Finding the Way",
+      "level": "B1–B2",
+      "description": "Procvič orientaci a pokyny ve městě.",
+      "prompt": "Co znamená „gire a la derecha“?",
+      "options": [
+        "Zahněte doprava",
+        "Jděte zpět",
+        "Přejděte ulici"
+      ],
+      "answer": 0,
+      "explanation": "Girar a la derecha znamená odbočit doprava.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_05",
+      "language": "Španělština",
+      "title": "A Weekend Away",
+      "level": "B1–B2",
+      "description": "Rozlišuj minulý čas pretérito perfecto.",
+      "prompt": "Doplň: Hoy ___ visitado el museo.",
+      "options": [
+        "he",
+        "soy",
+        "estoy"
+      ],
+      "answer": 0,
+      "explanation": "Pretérito perfecto se tvoří pomocí haber a příčestí: he visitado.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_06",
+      "language": "Španělština",
+      "title": "Plans for Tomorrow",
+      "level": "B1–B2",
+      "description": "Mluv o budoucích plánech.",
+      "prompt": "Co znamená „Mañana saldré temprano“?",
+      "options": [
+        "Zítra vyrazím brzy.",
+        "Včera jsem přijel pozdě.",
+        "Dnes zůstanu doma."
+      ],
+      "answer": 0,
+      "explanation": "Saldré je budoucí tvar slovesa salir.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_07",
+      "language": "Španělština",
+      "title": "A Taste of Spain",
+      "level": "B1–B2",
+      "description": "Procvič slovní zásobu jídla a restaurace.",
+      "prompt": "Co znamená „la cuenta“?",
+      "options": [
+        "Účet",
+        "Kuchyně",
+        "Spropitné"
+      ],
+      "answer": 0,
+      "explanation": "La cuenta je účet v restauraci.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_08",
+      "language": "Španělština",
+      "title": "A Place to Stay",
+      "level": "B1–B2",
+      "description": "Domluv ubytování a rezervaci.",
+      "prompt": "Jak řekneš „Máme rezervaci“?",
+      "options": [
+        "Tenemos una reserva.",
+        "Somos una habitación.",
+        "Hacemos una maleta."
+      ],
+      "answer": 0,
+      "explanation": "Tener una reserva znamená mít rezervaci.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_09",
+      "language": "Španělština",
+      "title": "What Do You Think?",
+      "level": "B1–B2",
+      "description": "Vyjadřuj názor a reaguj na druhé.",
+      "prompt": "Co znamená „Desde mi punto de vista“?",
+      "options": [
+        "Z mého pohledu",
+        "Na poslední chvíli",
+        "Podle jízdního řádu"
+      ],
+      "answer": 0,
+      "explanation": "Desde mi punto de vista uvádí vlastní stanovisko.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_10",
+      "language": "Španělština",
+      "title": "A Small Problem",
+      "level": "B1–B2",
+      "description": "Popiš potíže a požádej o pomoc.",
+      "prompt": "Co znamená „Necesito que me ayudes“?",
+      "options": [
+        "Potřebuji, abys mi pomohl.",
+        "Pomohu ti zítra.",
+        "Nepotřebuji pomoc."
+      ],
+      "answer": 0,
+      "explanation": "Necesitar que často uvádí vedlejší větu se subjunktivem.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_11",
+      "language": "Španělština",
+      "title": "Memories from Childhood",
+      "level": "B1–B2",
+      "description": "Procvič imperfecto při vyprávění o minulosti.",
+      "prompt": "K čemu se často používá imperfecto?",
+      "options": [
+        "K popisu zvyků a okolností v minulosti",
+        "Jen k rozkazům",
+        "Jen k budoucnosti"
+      ],
+      "answer": 0,
+      "explanation": "Imperfecto popisuje opakované děje a okolnosti v minulosti.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_12",
+      "language": "Španělština",
+      "title": "The Train Is Late",
+      "level": "B1–B2",
+      "description": "Mluv o cestování a zpoždění.",
+      "prompt": "Co znamená „El tren lleva retraso“?",
+      "options": [
+        "Vlak má zpoždění.",
+        "Vlak je plný.",
+        "Vlak odjíždí dříve."
+      ],
+      "answer": 0,
+      "explanation": "Llevar retraso znamená mít zpoždění.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_13",
+      "language": "Španělština",
+      "title": "Work and Responsibility",
+      "level": "B1–B2",
+      "description": "Procvič pracovní povinnosti a domluvu.",
+      "prompt": "Co znamená „Tengo que entregar el informe“?",
+      "options": [
+        "Musím odevzdat zprávu.",
+        "Mohu zrušit schůzku.",
+        "Chci si vzít dovolenou."
+      ],
+      "answer": 0,
+      "explanation": "Tener que + infinitiv vyjadřuje nutnost nebo povinnost.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_14",
+      "language": "Španělština",
+      "title": "If I Had More Time",
+      "level": "B1–B2",
+      "description": "Vyjadřuj hypotetické situace pomocí subjunktivu.",
+      "prompt": "Doplň: Si tuviera tiempo, ___ más.",
+      "options": [
+        "viajaría",
+        "viajo",
+        "viajé"
+      ],
+      "answer": 0,
+      "explanation": "Si + imperfecto de subjuntivo se pojí s podmiňovacím způsobem.",
+      "icon": "translate"
+    },
+    {
+      "id": "es_15",
+      "language": "Španělština",
+      "title": "A Different Point of View",
+      "level": "B1–B2",
+      "description": "Procvič argumentaci a spojovací výrazy.",
+      "prompt": "Co znamená „Sin embargo“?",
+      "options": [
+        "Nicméně",
+        "Protože",
+        "Nakonec"
+      ],
+      "answer": 0,
+      "explanation": "Sin embargo vyjadřuje protiklad: nicméně / avšak.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_01",
+      "language": "Francouzština",
+      "title": "A New Beginning",
+      "level": "B1–B2",
+      "description": "Procvič představení a osobní informace.",
+      "prompt": "Jak řekneš „Jmenuji se Claire“?",
+      "options": [
+        "Je m’appelle Claire.",
+        "J’ai Claire.",
+        "Je suis appelle Claire."
+      ],
+      "answer": 0,
+      "explanation": "Je m’appelle znamená jmenuji se.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_02",
+      "language": "Francouzština",
+      "title": "A Day in Paris",
+      "level": "B1–B2",
+      "description": "Popisuj denní režim a běžné činnosti.",
+      "prompt": "Co znamená „tous les jours“?",
+      "options": [
+        "Každý den",
+        "Každý měsíc",
+        "Zřídka"
+      ],
+      "answer": 0,
+      "explanation": "Tous les jours znamená každý den.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_03",
+      "language": "Francouzština",
+      "title": "At the Café",
+      "level": "B1–B2",
+      "description": "Nauč se zdvořile objednávat.",
+      "prompt": "Jak požádáš o kávu?",
+      "options": [
+        "Je voudrais un café, s’il vous plaît.",
+        "Je suis un café.",
+        "J’ai café hier."
+      ],
+      "answer": 0,
+      "explanation": "Je voudrais je zdvořilá fráze „chtěl(a) bych“.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_04",
+      "language": "Francouzština",
+      "title": "Finding the Way",
+      "level": "B1–B2",
+      "description": "Procvič orientaci a pokyny ve městě.",
+      "prompt": "Co znamená „tournez à gauche“?",
+      "options": [
+        "Zahněte doleva",
+        "Jděte rovně",
+        "Zahněte doprava"
+      ],
+      "answer": 0,
+      "explanation": "Tourner à gauche znamená odbočit doleva.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_05",
+      "language": "Francouzština",
+      "title": "A Weekend Away",
+      "level": "B1–B2",
+      "description": "Procvič passé composé.",
+      "prompt": "Doplň: Hier, j’___ visité le musée.",
+      "options": [
+        "ai",
+        "suis",
+        "vais"
+      ],
+      "answer": 0,
+      "explanation": "Passé composé se u visiter tvoří pomocí avoir: j’ai visité.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_06",
+      "language": "Francouzština",
+      "title": "Plans for Tomorrow",
+      "level": "B1–B2",
+      "description": "Mluv o budoucích plánech.",
+      "prompt": "Co znamená „Demain, je partirai tôt“?",
+      "options": [
+        "Zítra odjedu brzy.",
+        "Včera jsem přijel pozdě.",
+        "Dnes zůstávám doma."
+      ],
+      "answer": 0,
+      "explanation": "Partirai je futur simple od partir.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_07",
+      "language": "Francouzština",
+      "title": "A Taste of France",
+      "level": "B1–B2",
+      "description": "Procvič slovní zásobu jídla a restaurace.",
+      "prompt": "Co znamená „l’addition“?",
+      "options": [
+        "Účet",
+        "Jídelní lístek",
+        "Kuchyně"
+      ],
+      "answer": 0,
+      "explanation": "L’addition je účet v restauraci.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_08",
+      "language": "Francouzština",
+      "title": "A Place to Stay",
+      "level": "B1–B2",
+      "description": "Domluv ubytování a rezervaci.",
+      "prompt": "Jak řekneš „Mám rezervaci“?",
+      "options": [
+        "J’ai une réservation.",
+        "Je suis une chambre.",
+        "Je fais une valise."
+      ],
+      "answer": 0,
+      "explanation": "Avoir une réservation znamená mít rezervaci.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_09",
+      "language": "Francouzština",
+      "title": "What Do You Think?",
+      "level": "B1–B2",
+      "description": "Vyjadřuj názor a reaguj na druhé.",
+      "prompt": "Co znamená „À mon avis“?",
+      "options": [
+        "Podle mého názoru",
+        "Na poslední chvíli",
+        "Bez důvodu"
+      ],
+      "answer": 0,
+      "explanation": "À mon avis uvádí osobní názor.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_10",
+      "language": "Francouzština",
+      "title": "A Small Problem",
+      "level": "B1–B2",
+      "description": "Popiš problém a požádej o pomoc.",
+      "prompt": "Co znamená „J’ai besoin d’aide“?",
+      "options": [
+        "Potřebuji pomoc.",
+        "Nabízím pomoc.",
+        "Nemám problém."
+      ],
+      "answer": 0,
+      "explanation": "Avoir besoin de znamená potřebovat.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_11",
+      "language": "Francouzština",
+      "title": "Memories from Childhood",
+      "level": "B1–B2",
+      "description": "Procvič imparfait při vyprávění o minulosti.",
+      "prompt": "K čemu se často používá imparfait?",
+      "options": [
+        "Ke zvykům a okolnostem v minulosti",
+        "Jen k budoucnosti",
+        "Jen k rozkazům"
+      ],
+      "answer": 0,
+      "explanation": "Imparfait popisuje zvyky, opakování a probíhající okolnosti v minulosti.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_12",
+      "language": "Francouzština",
+      "title": "The Train Is Late",
+      "level": "B1–B2",
+      "description": "Mluv o dopravě a zpoždění.",
+      "prompt": "Co znamená „Le train a du retard“?",
+      "options": [
+        "Vlak má zpoždění.",
+        "Vlak je zrušený.",
+        "Vlak je prázdný."
+      ],
+      "answer": 0,
+      "explanation": "Avoir du retard znamená mít zpoždění.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_13",
+      "language": "Francouzština",
+      "title": "Work and Responsibility",
+      "level": "B1–B2",
+      "description": "Procvič pracovní povinnosti a domluvu.",
+      "prompt": "Co znamená „Je dois rendre le rapport“?",
+      "options": [
+        "Musím odevzdat zprávu.",
+        "Chci napsat pohled.",
+        "Mohu odejít dříve."
+      ],
+      "answer": 0,
+      "explanation": "Devoir + infinitiv vyjadřuje povinnost.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_14",
+      "language": "Francouzština",
+      "title": "If I Had More Time",
+      "level": "B1–B2",
+      "description": "Vyjadřuj hypotetické situace.",
+      "prompt": "Doplň: Si j’avais le temps, je ___.",
+      "options": [
+        "voyagerais",
+        "voyage",
+        "voyageais"
+      ],
+      "answer": 0,
+      "explanation": "Si + imparfait se pojí s conditionnel présent.",
+      "icon": "translate"
+    },
+    {
+      "id": "fr_15",
+      "language": "Francouzština",
+      "title": "A Different Point of View",
+      "level": "B1–B2",
+      "description": "Procvič argumentaci a spojovací výrazy.",
+      "prompt": "Co znamená „Cependant“?",
+      "options": [
+        "Nicméně",
+        "Například",
+        "Protože"
+      ],
+      "answer": 0,
+      "explanation": "Cependant vyjadřuje protiklad: nicméně / avšak.",
+      "icon": "translate"
     }
   ]
 }
